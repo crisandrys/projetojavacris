@@ -1,4 +1,4 @@
-alert('Boas vinda criançada');
+alert('Boas vindas criançada');
 let numeroSecreto = 17;
 console.log('numeroSecreto')
 let chute = prompt('Escolha um número entre 1 e 20');
